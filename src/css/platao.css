@@ -1,0 +1,89 @@
+*{
+  padding: 0;
+  margin: 0;
+  border-style: border-box;
+}
+.platao,
+.platao * {
+  box-sizing: border-box;
+}
+.platao {
+  background: #fff3b0;
+  height: 1333px;
+  position: relative;
+  overflow: hidden;
+}
+.cabe-arioo {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.btnlivros {
+  border-radius: 0px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 26px;
+  top: 1247px;
+  overflow: visible;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 86px;
+  top: 1256px;
+}
+.biografia-de-plat-o-nasceu-em-atenas-por-volta-de-428-a-c-e-morreu-em-348-a-c-disc-pulo-de-s-crates-plat-o-dedicou-se-filosofia-e-pol-tica-fundou-a-academia-um-espa-o-de-ensino-e-discuss-o-para-jovens-atenienses-escreveu-a-apologia-de-s-crates-relatando-o-julgamento-e-a-morte-de-seu-mentor-sua-caracter-stica-f-sica-not-vel-ombros-largos-deu-origem-ao-nome-plat-o-platon-em-grego-ideias-filos-ficas-de-plat-o-mundo-das-ideias-e-das-formas-plat-o-dividiu-a-realidade-em-duas-categorias-mundo-das-ideias-realidade-intelectual-acessada-pela-raz-o-cont-m-ess-ncias-fixas-e-imut-veis-mundo-sens-vel-realidade-ilus-ria-percebida-pelos-sentidos-mas-enganosa-idealismo-plat-o-atribuiu-centralidade-ao-conhecimento-racional-e-s-ideias-na-busca-pela-verdade-pol-tica-escreveu-a-obra-a-rep-blica-uma-grande-utopia-pol-tica-ocidental {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 26px;
+  top: 244px;
+  width: 1350px;
+}
+.biografia-de-plat-o-nasceu-em-atenas-por-volta-de-428-a-c-e-morreu-em-348-a-c-disc-pulo-de-s-crates-plat-o-dedicou-se-filosofia-e-pol-tica-fundou-a-academia-um-espa-o-de-ensino-e-discuss-o-para-jovens-atenienses-escreveu-a-apologia-de-s-crates-relatando-o-julgamento-e-a-morte-de-seu-mentor-sua-caracter-stica-f-sica-not-vel-ombros-largos-deu-origem-ao-nome-plat-o-platon-em-grego-ideias-filos-ficas-de-plat-o-mundo-das-ideias-e-das-formas-plat-o-dividiu-a-realidade-em-duas-categorias-mundo-das-ideias-realidade-intelectual-acessada-pela-raz-o-cont-m-ess-ncias-fixas-e-imut-veis-mundo-sens-vel-realidade-ilus-ria-percebida-pelos-sentidos-mas-enganosa-idealismo-plat-o-atribuiu-centralidade-ao-conhecimento-racional-e-s-ideias-na-busca-pela-verdade-pol-tica-escreveu-a-obra-a-rep-blica-uma-grande-utopia-pol-tica-ocidental-span {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.biografia-de-plat-o-nasceu-em-atenas-por-volta-de-428-a-c-e-morreu-em-348-a-c-disc-pulo-de-s-crates-plat-o-dedicou-se-filosofia-e-pol-tica-fundou-a-academia-um-espa-o-de-ensino-e-discuss-o-para-jovens-atenienses-escreveu-a-apologia-de-s-crates-relatando-o-julgamento-e-a-morte-de-seu-mentor-sua-caracter-stica-f-sica-not-vel-ombros-largos-deu-origem-ao-nome-plat-o-platon-em-grego-ideias-filos-ficas-de-plat-o-mundo-das-ideias-e-das-formas-plat-o-dividiu-a-realidade-em-duas-categorias-mundo-das-ideias-realidade-intelectual-acessada-pela-raz-o-cont-m-ess-ncias-fixas-e-imut-veis-mundo-sens-vel-realidade-ilus-ria-percebida-pelos-sentidos-mas-enganosa-idealismo-plat-o-atribuiu-centralidade-ao-conhecimento-racional-e-s-ideias-na-busca-pela-verdade-pol-tica-escreveu-a-obra-a-rep-blica-uma-grande-utopia-pol-tica-ocidental-span2 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.biografia-de-plat-o-nasceu-em-atenas-por-volta-de-428-a-c-e-morreu-em-348-a-c-disc-pulo-de-s-crates-plat-o-dedicou-se-filosofia-e-pol-tica-fundou-a-academia-um-espa-o-de-ensino-e-discuss-o-para-jovens-atenienses-escreveu-a-apologia-de-s-crates-relatando-o-julgamento-e-a-morte-de-seu-mentor-sua-caracter-stica-f-sica-not-vel-ombros-largos-deu-origem-ao-nome-plat-o-platon-em-grego-ideias-filos-ficas-de-plat-o-mundo-das-ideias-e-das-formas-plat-o-dividiu-a-realidade-em-duas-categorias-mundo-das-ideias-realidade-intelectual-acessada-pela-raz-o-cont-m-ess-ncias-fixas-e-imut-veis-mundo-sens-vel-realidade-ilus-ria-percebida-pelos-sentidos-mas-enganosa-idealismo-plat-o-atribuiu-centralidade-ao-conhecimento-racional-e-s-ideias-na-busca-pela-verdade-pol-tica-escreveu-a-obra-a-rep-blica-uma-grande-utopia-pol-tica-ocidental-span3 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.plat-o {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 72px;
+  top: 70px;
+}
+.image-4 {
+  width: 449px;
+  height: 444px;
+  position: absolute;
+  left: 927px;
+  top: 881px;
+  object-fit: cover;
+}

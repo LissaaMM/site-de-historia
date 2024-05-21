@@ -1,0 +1,71 @@
+*{
+  padding: 0;
+  margin: 0;
+  border-style: border-box;
+}
+.per-colonial,
+.per-colonial * {
+  box-sizing: border-box;
+}
+.per-colonial {
+  background: #fff3b0;
+  height: 1240px;
+  position: relative;
+  overflow: hidden;
+}
+.cabe-arioo {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.btnlivros {
+  border-radius: 0px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 77px;
+  top: 1045px;
+  overflow: visible;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 137px;
+  top: 1053px;
+}
+.periodo-colonial {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 44px;
+  top: 70px;
+}
+.image-8 {
+  width: 319px;
+  height: 208px;
+  position: absolute;
+  left: 922px;
+  top: 1017px;
+  object-fit: cover;
+}
+.o-per-odo-colonial-brasileiro-durou-de-1500-a-1822-come-ando-com-a-chegada-dos-portugueses-em-1500-per-odo-pr-colonial-1500-1530-nesse-per-odo-a-atividade-econ-mica-girava-em-torno-da-explora-o-da-madeira-brasileira-que-existia-em-grandes-quantidades-ao-longo-da-costa-brasileira-especialmente-no-nordeste-do-pa-s-in-cio-do-brasil-colonial-1530-a-coloniza-o-do-brasil-come-ou-com-a-chegada-da-primeira-expedi-o-colonizadora-liderada-por-martim-afonso-de-souza-em-1532-fundou-o-primeiro-povoado-a-vila-de-s-o-vicente-no-litoral-do-atual-estado-de-s-o-paulo-2-implanta-o-dos-capit-es-heredit-rios-para-colonizar-o-brasil-e-garantir-a-posse-das-terras-em-1534-a-coroa-dividiu-o-territ-rio-em-15-capit-es-heredit-rios-implementa-o-da-administra-o-geral-1548-o-sistema-de-administra-o-geral-foi-criado-pela-coroa-em-1548-com-o-objetivo-de-organizar-a-administra-o-colonial-economia-e-brasil-colonial-a-economia-colonial-consistia-na-explora-o-de-riquezas-para-satisfazer-interesses-do-mercado-externo-atrav-s-do-trabalho-escravizado-1-a-produ-o-de-a-car-foi-escolhida-por-ser-um-produto-muito-procurado-na-europa-na-poca-fim-do-brasil-colonial-1822-a-partir-de-1808-com-a-chegada-da-fam-lia-real-portuguesa-ao-brasil-iniciou-se-o-processo-de-independ-ncia-rompendo-os-la-os-pol-ticos-entre-col-nia-e-metr-pole {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 35px;
+  top: 224px;
+  width: 1382px;
+}

@@ -3,7 +3,9 @@
   padding: 0;
   margin: 0;
   border-style: border-box;
-}.group-20,
+}
+
+.group-20,
 .group-20 * {
   border-style: border-box;
   

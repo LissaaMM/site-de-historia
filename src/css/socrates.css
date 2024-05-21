@@ -1,0 +1,72 @@
+*{
+  padding: 0;
+  margin: 0;
+  border-style: border-box;
+}
+.socrates,
+.socrates * {
+  box-sizing: border-box;
+}
+.socrates {
+  background: #fff3b0;
+  height: 1333px;
+  position: relative;
+  overflow: hidden;
+}
+.cabe-arioo {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.s-crates {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 70px;
+}
+.btnlivros {
+  border-radius: 0px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 26px;
+  top: 1247px;
+  overflow: visible;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 86px;
+  top: 1256px;
+}
+.s-crates-o-ic-nico-fil-sofo-grego-emergiu-em-atenas-por-volta-de-470-a-c-marcando-seu-nome-como-um-pilar-da-filosofia-ocidental-nascido-no-seio-de-uma-fam-lia-de-classe-trabalhadora-filho-de-um-escultor-e-de-uma-parteira-s-crates-inicialmente-seguiu-os-passos-de-seu-pai-na-arte-da-escultura-sua-vida-tomou-um-rumo-filos-fico-ap-s-uma-profunda-reflex-o-sobre-o-significado-e-o-prop-sito-da-exist-ncia-humana-al-m-de-suas-contribui-es-intelectuais-ele-tamb-m-serviu-como-soldado-lutando-com-bravura-em-conflitos-significativos-como-a-guerra-do-peloponeso-conhecido-por-inaugurar-o-per-odo-antropol-gico-da-filosofia-grega-s-crates-trouxe-para-o-centro-do-palco-filos-fico-temas-como-tica-justi-a-e-a-busca-pela-verdade-embora-n-o-tenha-deixado-nenhum-registro-escrito-de-seu-pensamento-seu-legado-foi-preservado-atrav-s-dos-di-logos-de-plat-o-e-dos-escritos-de-xenofonte-entre-outros-que-documentaram-suas-ideias-e-m-todos-a-busca-incans-vel-de-s-crates-pela-verdade-era-fundamentada-na-cren-a-de-que-a-sabedoria-come-a-com-o-reconhecimento-da-pr-pria-ignor-ncia-uma-no-o-encapsulada-em-sua-famosa-cita-o-s-sei-que-nada-sei-ele-desenvolveu-o-m-todo-socr-tico-uma-t-cnica-dial-tica-de-questionamento-que-visa-estimular-o-pensamento-cr-tico-e-iluminar-ideias {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 26px;
+  top: 228px;
+  width: 1283px;
+  height: 658px;
+}
+.oip-7 {
+  width: 334px;
+  height: 292px;
+  position: absolute;
+  left: 766px;
+  top: 1015px;
+  object-fit: cover;
+}

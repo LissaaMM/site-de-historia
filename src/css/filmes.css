@@ -1,0 +1,140 @@
+*{
+  padding: 0;
+  margin: 0;
+  border-style: border-box;
+}
+.filmespg,
+.filmespg * {
+  box-sizing: border-box;
+}
+.filmespg {
+  background: #fff3b0;
+  height: 1078px;
+  position: relative;
+  overflow: hidden;
+}
+.cabe-arioo {
+  background: #854d4d;
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.cabe-arioo2 {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.filmes {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 24px;
+  top: 70px;
+}
+.btnvoltar {
+  background: #854d4d;
+  border-radius: 8px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 17px;
+  top: 916px;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 78px;
+  top: 924px;
+}
+.frame-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 4px;
+  top: 771px;
+  overflow: hidden;
+}
+.oip-6 {
+  width: 253px;
+  height: 374px;
+  position: absolute;
+  left: 24px;
+  top: 231px;
+  object-fit: cover;
+}
+.r-3 {
+  width: 252px;
+  height: 374px;
+  position: absolute;
+  left: 307px;
+  top: 231px;
+  object-fit: cover;
+}
+.r-4 {
+  width: 251px;
+  height: 376px;
+  position: absolute;
+  left: 589px;
+  top: 229px;
+  object-fit: cover;
+}
+._69-e-10819-e-4214601465-bf-54-f-1536-aabf-1 {
+  width: 265px;
+  height: 374px;
+  position: absolute;
+  left: 870px;
+  top: 231px;
+  object-fit: cover;
+}
+.r-5 {
+  width: 253px;
+  height: 374px;
+  position: absolute;
+  left: 1165px;
+  top: 231px;
+  object-fit: cover;
+}
+.t-mulo-dos-vagalumes-1 {
+  width: 253px;
+  height: 376px;
+  position: absolute;
+  left: 1165px;
+  top: 632px;
+  object-fit: cover;
+}
+.e-61-b-5-b-046-d-7258737-a-1155-fab-4-decf-09-1 {
+  width: 265px;
+  height: 376px;
+  position: absolute;
+  left: 870px;
+  top: 632px;
+  object-fit: cover;
+}
+._1830506-1 {
+  width: 251px;
+  height: 374px;
+  position: absolute;
+  left: 589px;
+  top: 632px;
+  object-fit: cover;
+}
+.wall-e-poster-1 {
+  width: 261px;
+  height: 376px;
+  position: absolute;
+  left: 298px;
+  top: 632px;
+  object-fit: cover;
+}

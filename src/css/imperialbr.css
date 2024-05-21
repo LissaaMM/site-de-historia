@@ -1,0 +1,217 @@
+*{
+  padding: 0;
+  margin: 0;
+  border-style: border-box;
+}
+.per-imprerial,
+.per-imprerial * {
+  box-sizing: border-box;
+}
+.per-imprerial {
+  background: #fff3b0;
+  height: 1240px;
+  position: relative;
+  overflow: hidden;
+}
+.cabe-arioo {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.btnlivros {
+  border-radius: 0px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 77px;
+  top: 1045px;
+  overflow: visible;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 137px;
+  top: 1053px;
+}
+.periodo-imperial {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 44px;
+  top: 70px;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889 {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 21px;
+  top: 210px;
+  width: 1372px;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span2 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span3 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span4 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span5 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span6 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span7 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span8 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span9 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span10 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span11 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span12 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span13 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span14 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span15 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span16 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span17 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span18 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span19 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span20 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span21 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.o-per-odo-imperial-brasileiro-se-estendeu-de-1822-a-1889-come-ando-com-a-independ-ncia-do-brasil-e-terminando-com-a-proclama-o-da-rep-blica-12-aqui-est-um-resumo-desse-per-odo-primeiro-reinado-1822-1831-oficialmente-o-imp-rio-do-brasil-come-a-com-a-aclama-o-de-dom-pedro-i-como-imperador-do-brasil-em-12-de-outubro-de-18222-d-pedro-i-teve-que-enfrentar-a-dif-cil-situa-o-criada-por-algumas-prov-ncias-onde-as-juntas-governativas-provis-rias-eram-dominadas-por-portugueses-2-constitui-o-de-1824-a-assembleia-constituinte-foi-convocada-por-d-pedro-i-e-se-reuniu-pela-primeira-vez-no-dia-3-de-maio-de-1823-para-elaborar-a-primeira-constitui-o-do-brasil-2-a-constitui-o-de-1824-estabelecia-a-monarquia-constitucional-como-regime-pol-tico-e-os-tr-s-poderes-executivo-legislativo-e-judici-rio-2-per-odo-regencial-1831-1840-foi-um-momento-de-transi-o-e-teve-dois-grandes-destaques-as-brigas-pol-ticas-e-as-revoltas-provinciais-1-segundo-reinado-1840-1889-foi-o-maior-e-mais-est-vel-per-odo-da-monarquia-no-brasil-quando-d-pedro-ii-governou-o-pa-s-por-quase-meio-s-culo-1-essa-poca-foi-marcada-por-importantes-eventos-no-brasil-como-a-guerra-do-paraguai-1-fim-do-brasil-imp-rio-1889-o-golpe-militar-que-conduziu-proclama-o-da-rep-blica-deu-fim-monarquia-em-1889-span22 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.th-1 {
+  width: 380px;
+  height: 238px;
+  position: absolute;
+  left: 869px;
+  top: 956px;
+  object-fit: cover;
+}

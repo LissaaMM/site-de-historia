@@ -2,26 +2,114 @@
   padding: 0;
   margin: 0;
 }
-
-body {
-  background-color: #fff3b0;
-  height: 500px;
-  position: relative;
-  overflow: hidden;
+.group-9,
+.group-9 * {
+  box-sizing: border-box;
 }
-
-
-
-.cabexa {
-  background: #854d4d;
-  width: 100%;
-  height: 138px;
+.group-9 {
+  height: 1024px;
+  position: relative;
+}
+.historiagr {
+  background: #fff3b0;
+  width: 1440px;
+  height: 1024px;
   position: absolute;
   left: 0px;
   top: 0px;
+  overflow: hidden;
+}
+.cabe-arioo {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.hist-ria-geral {
   color: #ffffff;
-  text-align: inline;
-  font-family: "Playball-Regular";
-  font-size: 23px;
-  font-weight: 23px; 
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 70px;
+}
+.btnlivros {
+  border-radius: 0px;
+  width: 388px;
+  height: 60px;
+  position: absolute;
+  left: 31px;
+  top: 554px;
+  overflow: visible;
+}
+.revolu-o-francesa {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 62px;
+  top: 562px;
+}
+.btnlivros2 {
+  border-radius: 0px;
+  width: 388px;
+  height: 60px;
+  position: absolute;
+  left: 31px;
+  top: 434px;
+  overflow: visible;
+}
+.revolu-o-inglesa {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 439px;
+}
+.btnlivros3 {
+  border-radius: 0px;
+  width: 388px;
+  height: 60px;
+  position: absolute;
+  left: 31px;
+  top: 314px;
+  overflow: visible;
+}
+.revolu-o-industria {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 67px;
+  top: 323px;
+}
+.btnlivros4 {
+  border-radius: 0px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 31px;
+  top: 794px;
+  overflow: visible;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 85px;
+  top: 805px;
 }

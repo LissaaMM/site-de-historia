@@ -1,0 +1,123 @@
+*{
+  padding: 0;
+  margin: 0;
+  border-style: border-box;
+}
+.rev-industrial,
+.rev-industrial * {
+  box-sizing: border-box;
+}
+.rev-industrial {
+  background: #fff3b0;
+  height: 2135px;
+  position: relative;
+  overflow: hidden;
+}
+.cabe-arioo {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.revolu-o-industrial {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 31px;
+  top: 70px;
+}
+.btnlivros {
+  border-radius: 0px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 59px;
+  top: 1570px;
+  overflow: visible;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 119px;
+  top: 1578px;
+}
+.uma-industria-metalurgica-1 {
+  width: 444px;
+  height: 287px;
+  position: absolute;
+  left: 498px;
+  top: 1486px;
+  object-fit: cover;
+}
+.a-revolu-o-industrial-foi-um-processo-hist-rico-de-transforma-econ-mica-e-social-que-teve-in-cio-na-inglaterra-no-s-culo-xviii-vamos-dar-uma-olhada-nas-principais-caracter-sticas-causas-e-consequ-ncias-desse-per-odo-marcante-causas-da-revolu-o-industrial-expans-o-do-com-rcio-internacional-nos-s-culos-xvi-e-xvii-o-com-rcio-internacional-trouxe-grande-riqueza-para-a-burguesia-permitindo-a-acumula-o-de-capital-para-investir-em-progresso-t-cnico-e-m-quinas-industriais-burguesia-fortalecida-a-classe-burguesa-europeia-enriquecida-investiu-em-projetos-de-aperfei-oamento-das-t-cnicas-de-produ-o-e-na-cria-o-de-m-quinas-maior-produtividade-e-lucros-o-uso-de-m-quinas-em-grande-escala-aumentou-a-produtividade-e-os-lucros-nas-ind-strias-consequ-ncias-da-revolu-o-industrial-desigualdades-entre-na-es-o-avan-o-tecnol-gico-distanciou-os-pa-ses-em-termos-de-poder-econ-mico-e-pol-tico-alguns-se-industrializaram-antes-enquanto-outros-permaneceram-fornecedores-de-mat-rias-primas-divis-o-entre-pa-ses-desenvolvidos-e-em-desenvolvimento-a-industrializa-o-marcou-a-diferen-a-entre-na-es-avan-adas-e-n-o-industrializadas-fases-da-revolu-o-industrial-primeira-revolu-o-industrial-ocorreu-entre-meados-do-s-culo-xviii-e-xix-caracterizou-se-pelo-surgimento-da-mecaniza-o-substituindo-o-trabalho-artesanal-pelo-assalariado-e-o-uso-de-m-quinas-inova-es-importantes-durante-esse-per-odo-surgiram-inven-es-como-o-motor-a-vapor-m-quinas-t-xteis-e-ilumina-o-p-blica-a-g-s {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 29px;
+  top: 272px;
+  width: 1417px;
+  height: 1112px;
+}
+.a-revolu-o-industrial-foi-um-processo-hist-rico-de-transforma-econ-mica-e-social-que-teve-in-cio-na-inglaterra-no-s-culo-xviii-vamos-dar-uma-olhada-nas-principais-caracter-sticas-causas-e-consequ-ncias-desse-per-odo-marcante-causas-da-revolu-o-industrial-expans-o-do-com-rcio-internacional-nos-s-culos-xvi-e-xvii-o-com-rcio-internacional-trouxe-grande-riqueza-para-a-burguesia-permitindo-a-acumula-o-de-capital-para-investir-em-progresso-t-cnico-e-m-quinas-industriais-burguesia-fortalecida-a-classe-burguesa-europeia-enriquecida-investiu-em-projetos-de-aperfei-oamento-das-t-cnicas-de-produ-o-e-na-cria-o-de-m-quinas-maior-produtividade-e-lucros-o-uso-de-m-quinas-em-grande-escala-aumentou-a-produtividade-e-os-lucros-nas-ind-strias-consequ-ncias-da-revolu-o-industrial-desigualdades-entre-na-es-o-avan-o-tecnol-gico-distanciou-os-pa-ses-em-termos-de-poder-econ-mico-e-pol-tico-alguns-se-industrializaram-antes-enquanto-outros-permaneceram-fornecedores-de-mat-rias-primas-divis-o-entre-pa-ses-desenvolvidos-e-em-desenvolvimento-a-industrializa-o-marcou-a-diferen-a-entre-na-es-avan-adas-e-n-o-industrializadas-fases-da-revolu-o-industrial-primeira-revolu-o-industrial-ocorreu-entre-meados-do-s-culo-xviii-e-xix-caracterizou-se-pelo-surgimento-da-mecaniza-o-substituindo-o-trabalho-artesanal-pelo-assalariado-e-o-uso-de-m-quinas-inova-es-importantes-durante-esse-per-odo-surgiram-inven-es-como-o-motor-a-vapor-m-quinas-t-xteis-e-ilumina-o-p-blica-a-g-s-span {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+.a-revolu-o-industrial-foi-um-processo-hist-rico-de-transforma-econ-mica-e-social-que-teve-in-cio-na-inglaterra-no-s-culo-xviii-vamos-dar-uma-olhada-nas-principais-caracter-sticas-causas-e-consequ-ncias-desse-per-odo-marcante-causas-da-revolu-o-industrial-expans-o-do-com-rcio-internacional-nos-s-culos-xvi-e-xvii-o-com-rcio-internacional-trouxe-grande-riqueza-para-a-burguesia-permitindo-a-acumula-o-de-capital-para-investir-em-progresso-t-cnico-e-m-quinas-industriais-burguesia-fortalecida-a-classe-burguesa-europeia-enriquecida-investiu-em-projetos-de-aperfei-oamento-das-t-cnicas-de-produ-o-e-na-cria-o-de-m-quinas-maior-produtividade-e-lucros-o-uso-de-m-quinas-em-grande-escala-aumentou-a-produtividade-e-os-lucros-nas-ind-strias-consequ-ncias-da-revolu-o-industrial-desigualdades-entre-na-es-o-avan-o-tecnol-gico-distanciou-os-pa-ses-em-termos-de-poder-econ-mico-e-pol-tico-alguns-se-industrializaram-antes-enquanto-outros-permaneceram-fornecedores-de-mat-rias-primas-divis-o-entre-pa-ses-desenvolvidos-e-em-desenvolvimento-a-industrializa-o-marcou-a-diferen-a-entre-na-es-avan-adas-e-n-o-industrializadas-fases-da-revolu-o-industrial-primeira-revolu-o-industrial-ocorreu-entre-meados-do-s-culo-xviii-e-xix-caracterizou-se-pelo-surgimento-da-mecaniza-o-substituindo-o-trabalho-artesanal-pelo-assalariado-e-o-uso-de-m-quinas-inova-es-importantes-durante-esse-per-odo-surgiram-inven-es-como-o-motor-a-vapor-m-quinas-t-xteis-e-ilumina-o-p-blica-a-g-s-span2 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.a-revolu-o-industrial-foi-um-processo-hist-rico-de-transforma-econ-mica-e-social-que-teve-in-cio-na-inglaterra-no-s-culo-xviii-vamos-dar-uma-olhada-nas-principais-caracter-sticas-causas-e-consequ-ncias-desse-per-odo-marcante-causas-da-revolu-o-industrial-expans-o-do-com-rcio-internacional-nos-s-culos-xvi-e-xvii-o-com-rcio-internacional-trouxe-grande-riqueza-para-a-burguesia-permitindo-a-acumula-o-de-capital-para-investir-em-progresso-t-cnico-e-m-quinas-industriais-burguesia-fortalecida-a-classe-burguesa-europeia-enriquecida-investiu-em-projetos-de-aperfei-oamento-das-t-cnicas-de-produ-o-e-na-cria-o-de-m-quinas-maior-produtividade-e-lucros-o-uso-de-m-quinas-em-grande-escala-aumentou-a-produtividade-e-os-lucros-nas-ind-strias-consequ-ncias-da-revolu-o-industrial-desigualdades-entre-na-es-o-avan-o-tecnol-gico-distanciou-os-pa-ses-em-termos-de-poder-econ-mico-e-pol-tico-alguns-se-industrializaram-antes-enquanto-outros-permaneceram-fornecedores-de-mat-rias-primas-divis-o-entre-pa-ses-desenvolvidos-e-em-desenvolvimento-a-industrializa-o-marcou-a-diferen-a-entre-na-es-avan-adas-e-n-o-industrializadas-fases-da-revolu-o-industrial-primeira-revolu-o-industrial-ocorreu-entre-meados-do-s-culo-xviii-e-xix-caracterizou-se-pelo-surgimento-da-mecaniza-o-substituindo-o-trabalho-artesanal-pelo-assalariado-e-o-uso-de-m-quinas-inova-es-importantes-durante-esse-per-odo-surgiram-inven-es-como-o-motor-a-vapor-m-quinas-t-xteis-e-ilumina-o-p-blica-a-g-s-span3 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.a-revolu-o-industrial-foi-um-processo-hist-rico-de-transforma-econ-mica-e-social-que-teve-in-cio-na-inglaterra-no-s-culo-xviii-vamos-dar-uma-olhada-nas-principais-caracter-sticas-causas-e-consequ-ncias-desse-per-odo-marcante-causas-da-revolu-o-industrial-expans-o-do-com-rcio-internacional-nos-s-culos-xvi-e-xvii-o-com-rcio-internacional-trouxe-grande-riqueza-para-a-burguesia-permitindo-a-acumula-o-de-capital-para-investir-em-progresso-t-cnico-e-m-quinas-industriais-burguesia-fortalecida-a-classe-burguesa-europeia-enriquecida-investiu-em-projetos-de-aperfei-oamento-das-t-cnicas-de-produ-o-e-na-cria-o-de-m-quinas-maior-produtividade-e-lucros-o-uso-de-m-quinas-em-grande-escala-aumentou-a-produtividade-e-os-lucros-nas-ind-strias-consequ-ncias-da-revolu-o-industrial-desigualdades-entre-na-es-o-avan-o-tecnol-gico-distanciou-os-pa-ses-em-termos-de-poder-econ-mico-e-pol-tico-alguns-se-industrializaram-antes-enquanto-outros-permaneceram-fornecedores-de-mat-rias-primas-divis-o-entre-pa-ses-desenvolvidos-e-em-desenvolvimento-a-industrializa-o-marcou-a-diferen-a-entre-na-es-avan-adas-e-n-o-industrializadas-fases-da-revolu-o-industrial-primeira-revolu-o-industrial-ocorreu-entre-meados-do-s-culo-xviii-e-xix-caracterizou-se-pelo-surgimento-da-mecaniza-o-substituindo-o-trabalho-artesanal-pelo-assalariado-e-o-uso-de-m-quinas-inova-es-importantes-durante-esse-per-odo-surgiram-inven-es-como-o-motor-a-vapor-m-quinas-t-xteis-e-ilumina-o-p-blica-a-g-s-span4 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.a-revolu-o-industrial-foi-um-processo-hist-rico-de-transforma-econ-mica-e-social-que-teve-in-cio-na-inglaterra-no-s-culo-xviii-vamos-dar-uma-olhada-nas-principais-caracter-sticas-causas-e-consequ-ncias-desse-per-odo-marcante-causas-da-revolu-o-industrial-expans-o-do-com-rcio-internacional-nos-s-culos-xvi-e-xvii-o-com-rcio-internacional-trouxe-grande-riqueza-para-a-burguesia-permitindo-a-acumula-o-de-capital-para-investir-em-progresso-t-cnico-e-m-quinas-industriais-burguesia-fortalecida-a-classe-burguesa-europeia-enriquecida-investiu-em-projetos-de-aperfei-oamento-das-t-cnicas-de-produ-o-e-na-cria-o-de-m-quinas-maior-produtividade-e-lucros-o-uso-de-m-quinas-em-grande-escala-aumentou-a-produtividade-e-os-lucros-nas-ind-strias-consequ-ncias-da-revolu-o-industrial-desigualdades-entre-na-es-o-avan-o-tecnol-gico-distanciou-os-pa-ses-em-termos-de-poder-econ-mico-e-pol-tico-alguns-se-industrializaram-antes-enquanto-outros-permaneceram-fornecedores-de-mat-rias-primas-divis-o-entre-pa-ses-desenvolvidos-e-em-desenvolvimento-a-industrializa-o-marcou-a-diferen-a-entre-na-es-avan-adas-e-n-o-industrializadas-fases-da-revolu-o-industrial-primeira-revolu-o-industrial-ocorreu-entre-meados-do-s-culo-xviii-e-xix-caracterizou-se-pelo-surgimento-da-mecaniza-o-substituindo-o-trabalho-artesanal-pelo-assalariado-e-o-uso-de-m-quinas-inova-es-importantes-durante-esse-per-odo-surgiram-inven-es-como-o-motor-a-vapor-m-quinas-t-xteis-e-ilumina-o-p-blica-a-g-s-span5 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.a-revolu-o-industrial-foi-um-processo-hist-rico-de-transforma-econ-mica-e-social-que-teve-in-cio-na-inglaterra-no-s-culo-xviii-vamos-dar-uma-olhada-nas-principais-caracter-sticas-causas-e-consequ-ncias-desse-per-odo-marcante-causas-da-revolu-o-industrial-expans-o-do-com-rcio-internacional-nos-s-culos-xvi-e-xvii-o-com-rcio-internacional-trouxe-grande-riqueza-para-a-burguesia-permitindo-a-acumula-o-de-capital-para-investir-em-progresso-t-cnico-e-m-quinas-industriais-burguesia-fortalecida-a-classe-burguesa-europeia-enriquecida-investiu-em-projetos-de-aperfei-oamento-das-t-cnicas-de-produ-o-e-na-cria-o-de-m-quinas-maior-produtividade-e-lucros-o-uso-de-m-quinas-em-grande-escala-aumentou-a-produtividade-e-os-lucros-nas-ind-strias-consequ-ncias-da-revolu-o-industrial-desigualdades-entre-na-es-o-avan-o-tecnol-gico-distanciou-os-pa-ses-em-termos-de-poder-econ-mico-e-pol-tico-alguns-se-industrializaram-antes-enquanto-outros-permaneceram-fornecedores-de-mat-rias-primas-divis-o-entre-pa-ses-desenvolvidos-e-em-desenvolvimento-a-industrializa-o-marcou-a-diferen-a-entre-na-es-avan-adas-e-n-o-industrializadas-fases-da-revolu-o-industrial-primeira-revolu-o-industrial-ocorreu-entre-meados-do-s-culo-xviii-e-xix-caracterizou-se-pelo-surgimento-da-mecaniza-o-substituindo-o-trabalho-artesanal-pelo-assalariado-e-o-uso-de-m-quinas-inova-es-importantes-durante-esse-per-odo-surgiram-inven-es-como-o-motor-a-vapor-m-quinas-t-xteis-e-ilumina-o-p-blica-a-g-s-span6 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.a-revolu-o-industrial-foi-um-processo-hist-rico-de-transforma-econ-mica-e-social-que-teve-in-cio-na-inglaterra-no-s-culo-xviii-vamos-dar-uma-olhada-nas-principais-caracter-sticas-causas-e-consequ-ncias-desse-per-odo-marcante-causas-da-revolu-o-industrial-expans-o-do-com-rcio-internacional-nos-s-culos-xvi-e-xvii-o-com-rcio-internacional-trouxe-grande-riqueza-para-a-burguesia-permitindo-a-acumula-o-de-capital-para-investir-em-progresso-t-cnico-e-m-quinas-industriais-burguesia-fortalecida-a-classe-burguesa-europeia-enriquecida-investiu-em-projetos-de-aperfei-oamento-das-t-cnicas-de-produ-o-e-na-cria-o-de-m-quinas-maior-produtividade-e-lucros-o-uso-de-m-quinas-em-grande-escala-aumentou-a-produtividade-e-os-lucros-nas-ind-strias-consequ-ncias-da-revolu-o-industrial-desigualdades-entre-na-es-o-avan-o-tecnol-gico-distanciou-os-pa-ses-em-termos-de-poder-econ-mico-e-pol-tico-alguns-se-industrializaram-antes-enquanto-outros-permaneceram-fornecedores-de-mat-rias-primas-divis-o-entre-pa-ses-desenvolvidos-e-em-desenvolvimento-a-industrializa-o-marcou-a-diferen-a-entre-na-es-avan-adas-e-n-o-industrializadas-fases-da-revolu-o-industrial-primeira-revolu-o-industrial-ocorreu-entre-meados-do-s-culo-xviii-e-xix-caracterizou-se-pelo-surgimento-da-mecaniza-o-substituindo-o-trabalho-artesanal-pelo-assalariado-e-o-uso-de-m-quinas-inova-es-importantes-durante-esse-per-odo-surgiram-inven-es-como-o-motor-a-vapor-m-quinas-t-xteis-e-ilumina-o-p-blica-a-g-s-span7 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.a-revolu-o-industrial-foi-um-processo-hist-rico-de-transforma-econ-mica-e-social-que-teve-in-cio-na-inglaterra-no-s-culo-xviii-vamos-dar-uma-olhada-nas-principais-caracter-sticas-causas-e-consequ-ncias-desse-per-odo-marcante-causas-da-revolu-o-industrial-expans-o-do-com-rcio-internacional-nos-s-culos-xvi-e-xvii-o-com-rcio-internacional-trouxe-grande-riqueza-para-a-burguesia-permitindo-a-acumula-o-de-capital-para-investir-em-progresso-t-cnico-e-m-quinas-industriais-burguesia-fortalecida-a-classe-burguesa-europeia-enriquecida-investiu-em-projetos-de-aperfei-oamento-das-t-cnicas-de-produ-o-e-na-cria-o-de-m-quinas-maior-produtividade-e-lucros-o-uso-de-m-quinas-em-grande-escala-aumentou-a-produtividade-e-os-lucros-nas-ind-strias-consequ-ncias-da-revolu-o-industrial-desigualdades-entre-na-es-o-avan-o-tecnol-gico-distanciou-os-pa-ses-em-termos-de-poder-econ-mico-e-pol-tico-alguns-se-industrializaram-antes-enquanto-outros-permaneceram-fornecedores-de-mat-rias-primas-divis-o-entre-pa-ses-desenvolvidos-e-em-desenvolvimento-a-industrializa-o-marcou-a-diferen-a-entre-na-es-avan-adas-e-n-o-industrializadas-fases-da-revolu-o-industrial-primeira-revolu-o-industrial-ocorreu-entre-meados-do-s-culo-xviii-e-xix-caracterizou-se-pelo-surgimento-da-mecaniza-o-substituindo-o-trabalho-artesanal-pelo-assalariado-e-o-uso-de-m-quinas-inova-es-importantes-durante-esse-per-odo-surgiram-inven-es-como-o-motor-a-vapor-m-quinas-t-xteis-e-ilumina-o-p-blica-a-g-s-span8 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.a-revolu-o-industrial-foi-um-processo-hist-rico-de-transforma-econ-mica-e-social-que-teve-in-cio-na-inglaterra-no-s-culo-xviii-vamos-dar-uma-olhada-nas-principais-caracter-sticas-causas-e-consequ-ncias-desse-per-odo-marcante-causas-da-revolu-o-industrial-expans-o-do-com-rcio-internacional-nos-s-culos-xvi-e-xvii-o-com-rcio-internacional-trouxe-grande-riqueza-para-a-burguesia-permitindo-a-acumula-o-de-capital-para-investir-em-progresso-t-cnico-e-m-quinas-industriais-burguesia-fortalecida-a-classe-burguesa-europeia-enriquecida-investiu-em-projetos-de-aperfei-oamento-das-t-cnicas-de-produ-o-e-na-cria-o-de-m-quinas-maior-produtividade-e-lucros-o-uso-de-m-quinas-em-grande-escala-aumentou-a-produtividade-e-os-lucros-nas-ind-strias-consequ-ncias-da-revolu-o-industrial-desigualdades-entre-na-es-o-avan-o-tecnol-gico-distanciou-os-pa-ses-em-termos-de-poder-econ-mico-e-pol-tico-alguns-se-industrializaram-antes-enquanto-outros-permaneceram-fornecedores-de-mat-rias-primas-divis-o-entre-pa-ses-desenvolvidos-e-em-desenvolvimento-a-industrializa-o-marcou-a-diferen-a-entre-na-es-avan-adas-e-n-o-industrializadas-fases-da-revolu-o-industrial-primeira-revolu-o-industrial-ocorreu-entre-meados-do-s-culo-xviii-e-xix-caracterizou-se-pelo-surgimento-da-mecaniza-o-substituindo-o-trabalho-artesanal-pelo-assalariado-e-o-uso-de-m-quinas-inova-es-importantes-durante-esse-per-odo-surgiram-inven-es-como-o-motor-a-vapor-m-quinas-t-xteis-e-ilumina-o-p-blica-a-g-s-span9 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}

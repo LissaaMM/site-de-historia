@@ -1,0 +1,71 @@
+*{
+  padding: 0;
+  margin: 0;
+  border-style: border-box;
+}
+.emilidukheim,
+.emilidukheim * {
+  box-sizing: border-box;
+}
+.emilidukheim {
+  background: #fff3b0;
+  height: 1333px;
+  position: relative;
+  overflow: hidden;
+}
+.cabe-arioo {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.mile-durkheim {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 52px;
+  top: 71px;
+}
+.btnlivros {
+  border-radius: 0px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 25px;
+  top: 1250px;
+  overflow: visible;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 85px;
+  top: 1258px;
+}
+.mile-durkheim-foi-um-soci-logo-fil-sofo-e-antrop-logo-franc-s-nascido-em-1858-ele-considerado-o-pai-da-sociologia-por-ter-introduzido-elementos-como-a-pesquisa-quantitativa-para-embasar-os-estudos-sociol-gicos-durkheim-tamb-m-conseguiu-que-a-sociologia-fosse-reconhecida-como-uma-disciplina-acad-mica-sua-trajet-ria-acad-mica-come-ou-na-escola-normal-superior-de-paris-onde-se-graduou-em-filosofia-em-1882-posteriormente-ingressou-na-universidade-de-bordeaux-onde-desafiou-a-sociedade-acad-mica-ao-instituir-um-novo-campo-do-saber-a-sociologia-durkheim-reuniu-colaboradores-especializados-em-diversas-reas-resultando-na-publica-o-da-revista-l-ann-e-sociologique-considerada-uma-das-mais-cient-ficas-no-campo-da-sociologia-duas-de-suas-obras-mais-estudadas-s-o-regras-do-m-todo-sociol-gico-1895-e-o-suic-dio-1897-na-primeira-ele-estabeleceu-as-regras-para-a-sociologia-como-ci-ncia-enfatizando-a-pesquisa-emp-rica-e-o-estudo-dos-fatos-sociais-durkheim-tamb-m-contribuiu-para-tornar-a-sociologia-uma-disciplina-universit-ria-ao-lado-de-karl-marx-e-max-weber {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 50px;
+  top: 232px;
+  width: 1254px;
+}
+.image-6 {
+  width: 408px;
+  height: 303px;
+  position: absolute;
+  left: 968px;
+  top: 990px;
+  object-fit: cover;
+}

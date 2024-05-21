@@ -1,0 +1,147 @@
+*{
+  padding: 0;
+  margin: 0;
+  border-style: border-box;
+}
+.serispg,
+.serispg * {
+  box-sizing: border-box;
+}
+.serispg {
+  background: #fff3b0;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.cabe-arioo {
+  background: #854d4d;
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.cabe-arioo2 {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: -258px;
+  top: -44px;
+  overflow: visible;
+}
+.s-ries {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 24px;
+  top: 70px;
+}
+.btnvoltar {
+  background: #854d4d;
+  border-radius: 8px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 30px;
+  top: 887px;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 91px;
+  top: 895px;
+}
+.the-umbrella-academy-1 {
+  width: 257px;
+  height: 396px;
+  position: absolute;
+  left: 384px;
+  top: 270px;
+  object-fit: cover;
+}
+.thecrown-4-x-6-1524844662-1 {
+  width: 264px;
+  height: 396px;
+  position: absolute;
+  left: 712px;
+  top: 270px;
+  object-fit: cover;
+}
+.bridgerton-drama-on-netflix-1 {
+  width: 283px;
+  height: 396px;
+  position: absolute;
+  left: 30px;
+  top: 270px;
+  object-fit: cover;
+}
+.a-serie-bridgerton-retrata-a-era-stuart {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 41px;
+  top: 663px;
+  width: 273px;
+  height: 159px;
+}
+.a-serie-bridgerton-retrata-a-era-stuart-span {
+  color: #000000;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.a-serie-bridgerton-retrata-a-era-stuart-span2 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.na-segunda-temporada-visivel-guerras {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 384px;
+  top: 701px;
+}
+.retratada-a-vida-da-rainha-elizabeth {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 720px;
+  top: 701px;
+}
+.oip-8 {
+  width: 245px;
+  height: 396px;
+  position: absolute;
+  left: 1059px;
+  top: 270px;
+  object-fit: cover;
+}
+.retrata-v-rios-temas-importantes-mesmo-de-forma-singela-como-a-luta-pela-a-igualdade-de-g-nero {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1059px;
+  top: 696px;
+  width: 309px;
+}

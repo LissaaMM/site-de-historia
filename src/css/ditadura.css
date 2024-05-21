@@ -1,0 +1,118 @@
+*{
+  padding: 0;
+  margin: 0;
+  border-style: border-box;
+}
+.dit-militar,
+.dit-militar * {
+  box-sizing: border-box;
+}
+.dit-militar {
+  background: #fff3b0;
+  height: 1240px;
+  position: relative;
+  overflow: hidden;
+}
+.cabe-arioo {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.btnlivros {
+  border-radius: 0px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 44px;
+  top: 1104px;
+  overflow: visible;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 104px;
+  top: 1112px;
+}
+.ditadura-militar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 44px;
+  top: 70px;
+}
+.o-regime-militar-no-brasil-um-regime-repressivo-que-come-ou-com-um-golpe-em-31-de-mar-o-de-1964-e-o-impeachment-do-presidente-jo-o-goulart-este-regime-durou-21-anos-1964-1985-durante-os-quais-foram-praticadas-censuras-imprensa-restri-es-s-liberdades-pol-ticas-e-tortura-policial-de-opositores-ao-governo-o-golpe-militar-de-1964-teve-como-objetivo-frear-o-avan-o-dos-partidos-populares-no-governo-de-jo-o-goulart-acusado-de-ser-comunista-o-ponto-de-partida-foi-a-ren-ncia-do-presidente-j-nio-quadros-em-25-de-agosto-de-1961-em-1964-agora-com-muito-poder-nas-m-os-jango-decidiu-iniciar-uma-reforma-reformada-para-mudar-o-pa-s-portanto-o-presidente-anunciou-que-aquisi-o-de-terrenos-nacionaliza-o-das-refinarias-de-petr-leo-reforma-eleitoral-que-garanta-o-voto-sem-instru-o-as-reformas-do-ensino-superior-incluem-a-ditadura-militar-no-brasil-foi-instaurada-atrav-s-de-um-golpe-organizado-pelos-militares-iniciado-em-31-de-mar-o-de-1964-e-seguido-de-um-golpe-ocorrido-em-2-de-abril-de-19642-este-golpe-n-o-foi-controlado-apenas-pelos-militares-e-com-a-maior-pot-ncia-comercial-do-brasil-com-a-ajuda-dos-estados-unidos-estava-determinado-a-derrotar-jo-o-goulart-e-o-trabalho-dos-trabalhadores-um-projeto-pol-tico-que-buscava-o-desenvolvimento-e-a-melhoria-do-bem-estar-da-sociedade-este-regime-terminou-em-1985-quando-tancredo-neves-foi-eleito-presidente-do-brasil {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 26px;
+  top: 215px;
+  width: 1340px;
+  height: 816px;
+}
+.o-regime-militar-no-brasil-um-regime-repressivo-que-come-ou-com-um-golpe-em-31-de-mar-o-de-1964-e-o-impeachment-do-presidente-jo-o-goulart-este-regime-durou-21-anos-1964-1985-durante-os-quais-foram-praticadas-censuras-imprensa-restri-es-s-liberdades-pol-ticas-e-tortura-policial-de-opositores-ao-governo-o-golpe-militar-de-1964-teve-como-objetivo-frear-o-avan-o-dos-partidos-populares-no-governo-de-jo-o-goulart-acusado-de-ser-comunista-o-ponto-de-partida-foi-a-ren-ncia-do-presidente-j-nio-quadros-em-25-de-agosto-de-1961-em-1964-agora-com-muito-poder-nas-m-os-jango-decidiu-iniciar-uma-reforma-reformada-para-mudar-o-pa-s-portanto-o-presidente-anunciou-que-aquisi-o-de-terrenos-nacionaliza-o-das-refinarias-de-petr-leo-reforma-eleitoral-que-garanta-o-voto-sem-instru-o-as-reformas-do-ensino-superior-incluem-a-ditadura-militar-no-brasil-foi-instaurada-atrav-s-de-um-golpe-organizado-pelos-militares-iniciado-em-31-de-mar-o-de-1964-e-seguido-de-um-golpe-ocorrido-em-2-de-abril-de-19642-este-golpe-n-o-foi-controlado-apenas-pelos-militares-e-com-a-maior-pot-ncia-comercial-do-brasil-com-a-ajuda-dos-estados-unidos-estava-determinado-a-derrotar-jo-o-goulart-e-o-trabalho-dos-trabalhadores-um-projeto-pol-tico-que-buscava-o-desenvolvimento-e-a-melhoria-do-bem-estar-da-sociedade-este-regime-terminou-em-1985-quando-tancredo-neves-foi-eleito-presidente-do-brasil-span {
+  color: #000000;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.o-regime-militar-no-brasil-um-regime-repressivo-que-come-ou-com-um-golpe-em-31-de-mar-o-de-1964-e-o-impeachment-do-presidente-jo-o-goulart-este-regime-durou-21-anos-1964-1985-durante-os-quais-foram-praticadas-censuras-imprensa-restri-es-s-liberdades-pol-ticas-e-tortura-policial-de-opositores-ao-governo-o-golpe-militar-de-1964-teve-como-objetivo-frear-o-avan-o-dos-partidos-populares-no-governo-de-jo-o-goulart-acusado-de-ser-comunista-o-ponto-de-partida-foi-a-ren-ncia-do-presidente-j-nio-quadros-em-25-de-agosto-de-1961-em-1964-agora-com-muito-poder-nas-m-os-jango-decidiu-iniciar-uma-reforma-reformada-para-mudar-o-pa-s-portanto-o-presidente-anunciou-que-aquisi-o-de-terrenos-nacionaliza-o-das-refinarias-de-petr-leo-reforma-eleitoral-que-garanta-o-voto-sem-instru-o-as-reformas-do-ensino-superior-incluem-a-ditadura-militar-no-brasil-foi-instaurada-atrav-s-de-um-golpe-organizado-pelos-militares-iniciado-em-31-de-mar-o-de-1964-e-seguido-de-um-golpe-ocorrido-em-2-de-abril-de-19642-este-golpe-n-o-foi-controlado-apenas-pelos-militares-e-com-a-maior-pot-ncia-comercial-do-brasil-com-a-ajuda-dos-estados-unidos-estava-determinado-a-derrotar-jo-o-goulart-e-o-trabalho-dos-trabalhadores-um-projeto-pol-tico-que-buscava-o-desenvolvimento-e-a-melhoria-do-bem-estar-da-sociedade-este-regime-terminou-em-1985-quando-tancredo-neves-foi-eleito-presidente-do-brasil-span2 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.o-regime-militar-no-brasil-um-regime-repressivo-que-come-ou-com-um-golpe-em-31-de-mar-o-de-1964-e-o-impeachment-do-presidente-jo-o-goulart-este-regime-durou-21-anos-1964-1985-durante-os-quais-foram-praticadas-censuras-imprensa-restri-es-s-liberdades-pol-ticas-e-tortura-policial-de-opositores-ao-governo-o-golpe-militar-de-1964-teve-como-objetivo-frear-o-avan-o-dos-partidos-populares-no-governo-de-jo-o-goulart-acusado-de-ser-comunista-o-ponto-de-partida-foi-a-ren-ncia-do-presidente-j-nio-quadros-em-25-de-agosto-de-1961-em-1964-agora-com-muito-poder-nas-m-os-jango-decidiu-iniciar-uma-reforma-reformada-para-mudar-o-pa-s-portanto-o-presidente-anunciou-que-aquisi-o-de-terrenos-nacionaliza-o-das-refinarias-de-petr-leo-reforma-eleitoral-que-garanta-o-voto-sem-instru-o-as-reformas-do-ensino-superior-incluem-a-ditadura-militar-no-brasil-foi-instaurada-atrav-s-de-um-golpe-organizado-pelos-militares-iniciado-em-31-de-mar-o-de-1964-e-seguido-de-um-golpe-ocorrido-em-2-de-abril-de-19642-este-golpe-n-o-foi-controlado-apenas-pelos-militares-e-com-a-maior-pot-ncia-comercial-do-brasil-com-a-ajuda-dos-estados-unidos-estava-determinado-a-derrotar-jo-o-goulart-e-o-trabalho-dos-trabalhadores-um-projeto-pol-tico-que-buscava-o-desenvolvimento-e-a-melhoria-do-bem-estar-da-sociedade-este-regime-terminou-em-1985-quando-tancredo-neves-foi-eleito-presidente-do-brasil-span3 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.o-regime-militar-no-brasil-um-regime-repressivo-que-come-ou-com-um-golpe-em-31-de-mar-o-de-1964-e-o-impeachment-do-presidente-jo-o-goulart-este-regime-durou-21-anos-1964-1985-durante-os-quais-foram-praticadas-censuras-imprensa-restri-es-s-liberdades-pol-ticas-e-tortura-policial-de-opositores-ao-governo-o-golpe-militar-de-1964-teve-como-objetivo-frear-o-avan-o-dos-partidos-populares-no-governo-de-jo-o-goulart-acusado-de-ser-comunista-o-ponto-de-partida-foi-a-ren-ncia-do-presidente-j-nio-quadros-em-25-de-agosto-de-1961-em-1964-agora-com-muito-poder-nas-m-os-jango-decidiu-iniciar-uma-reforma-reformada-para-mudar-o-pa-s-portanto-o-presidente-anunciou-que-aquisi-o-de-terrenos-nacionaliza-o-das-refinarias-de-petr-leo-reforma-eleitoral-que-garanta-o-voto-sem-instru-o-as-reformas-do-ensino-superior-incluem-a-ditadura-militar-no-brasil-foi-instaurada-atrav-s-de-um-golpe-organizado-pelos-militares-iniciado-em-31-de-mar-o-de-1964-e-seguido-de-um-golpe-ocorrido-em-2-de-abril-de-19642-este-golpe-n-o-foi-controlado-apenas-pelos-militares-e-com-a-maior-pot-ncia-comercial-do-brasil-com-a-ajuda-dos-estados-unidos-estava-determinado-a-derrotar-jo-o-goulart-e-o-trabalho-dos-trabalhadores-um-projeto-pol-tico-que-buscava-o-desenvolvimento-e-a-melhoria-do-bem-estar-da-sociedade-este-regime-terminou-em-1985-quando-tancredo-neves-foi-eleito-presidente-do-brasil-span4 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.o-regime-militar-no-brasil-um-regime-repressivo-que-come-ou-com-um-golpe-em-31-de-mar-o-de-1964-e-o-impeachment-do-presidente-jo-o-goulart-este-regime-durou-21-anos-1964-1985-durante-os-quais-foram-praticadas-censuras-imprensa-restri-es-s-liberdades-pol-ticas-e-tortura-policial-de-opositores-ao-governo-o-golpe-militar-de-1964-teve-como-objetivo-frear-o-avan-o-dos-partidos-populares-no-governo-de-jo-o-goulart-acusado-de-ser-comunista-o-ponto-de-partida-foi-a-ren-ncia-do-presidente-j-nio-quadros-em-25-de-agosto-de-1961-em-1964-agora-com-muito-poder-nas-m-os-jango-decidiu-iniciar-uma-reforma-reformada-para-mudar-o-pa-s-portanto-o-presidente-anunciou-que-aquisi-o-de-terrenos-nacionaliza-o-das-refinarias-de-petr-leo-reforma-eleitoral-que-garanta-o-voto-sem-instru-o-as-reformas-do-ensino-superior-incluem-a-ditadura-militar-no-brasil-foi-instaurada-atrav-s-de-um-golpe-organizado-pelos-militares-iniciado-em-31-de-mar-o-de-1964-e-seguido-de-um-golpe-ocorrido-em-2-de-abril-de-19642-este-golpe-n-o-foi-controlado-apenas-pelos-militares-e-com-a-maior-pot-ncia-comercial-do-brasil-com-a-ajuda-dos-estados-unidos-estava-determinado-a-derrotar-jo-o-goulart-e-o-trabalho-dos-trabalhadores-um-projeto-pol-tico-que-buscava-o-desenvolvimento-e-a-melhoria-do-bem-estar-da-sociedade-este-regime-terminou-em-1985-quando-tancredo-neves-foi-eleito-presidente-do-brasil-span5 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.o-regime-militar-no-brasil-um-regime-repressivo-que-come-ou-com-um-golpe-em-31-de-mar-o-de-1964-e-o-impeachment-do-presidente-jo-o-goulart-este-regime-durou-21-anos-1964-1985-durante-os-quais-foram-praticadas-censuras-imprensa-restri-es-s-liberdades-pol-ticas-e-tortura-policial-de-opositores-ao-governo-o-golpe-militar-de-1964-teve-como-objetivo-frear-o-avan-o-dos-partidos-populares-no-governo-de-jo-o-goulart-acusado-de-ser-comunista-o-ponto-de-partida-foi-a-ren-ncia-do-presidente-j-nio-quadros-em-25-de-agosto-de-1961-em-1964-agora-com-muito-poder-nas-m-os-jango-decidiu-iniciar-uma-reforma-reformada-para-mudar-o-pa-s-portanto-o-presidente-anunciou-que-aquisi-o-de-terrenos-nacionaliza-o-das-refinarias-de-petr-leo-reforma-eleitoral-que-garanta-o-voto-sem-instru-o-as-reformas-do-ensino-superior-incluem-a-ditadura-militar-no-brasil-foi-instaurada-atrav-s-de-um-golpe-organizado-pelos-militares-iniciado-em-31-de-mar-o-de-1964-e-seguido-de-um-golpe-ocorrido-em-2-de-abril-de-19642-este-golpe-n-o-foi-controlado-apenas-pelos-militares-e-com-a-maior-pot-ncia-comercial-do-brasil-com-a-ajuda-dos-estados-unidos-estava-determinado-a-derrotar-jo-o-goulart-e-o-trabalho-dos-trabalhadores-um-projeto-pol-tico-que-buscava-o-desenvolvimento-e-a-melhoria-do-bem-estar-da-sociedade-este-regime-terminou-em-1985-quando-tancredo-neves-foi-eleito-presidente-do-brasil-span6 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.o-regime-militar-no-brasil-um-regime-repressivo-que-come-ou-com-um-golpe-em-31-de-mar-o-de-1964-e-o-impeachment-do-presidente-jo-o-goulart-este-regime-durou-21-anos-1964-1985-durante-os-quais-foram-praticadas-censuras-imprensa-restri-es-s-liberdades-pol-ticas-e-tortura-policial-de-opositores-ao-governo-o-golpe-militar-de-1964-teve-como-objetivo-frear-o-avan-o-dos-partidos-populares-no-governo-de-jo-o-goulart-acusado-de-ser-comunista-o-ponto-de-partida-foi-a-ren-ncia-do-presidente-j-nio-quadros-em-25-de-agosto-de-1961-em-1964-agora-com-muito-poder-nas-m-os-jango-decidiu-iniciar-uma-reforma-reformada-para-mudar-o-pa-s-portanto-o-presidente-anunciou-que-aquisi-o-de-terrenos-nacionaliza-o-das-refinarias-de-petr-leo-reforma-eleitoral-que-garanta-o-voto-sem-instru-o-as-reformas-do-ensino-superior-incluem-a-ditadura-militar-no-brasil-foi-instaurada-atrav-s-de-um-golpe-organizado-pelos-militares-iniciado-em-31-de-mar-o-de-1964-e-seguido-de-um-golpe-ocorrido-em-2-de-abril-de-19642-este-golpe-n-o-foi-controlado-apenas-pelos-militares-e-com-a-maior-pot-ncia-comercial-do-brasil-com-a-ajuda-dos-estados-unidos-estava-determinado-a-derrotar-jo-o-goulart-e-o-trabalho-dos-trabalhadores-um-projeto-pol-tico-que-buscava-o-desenvolvimento-e-a-melhoria-do-bem-estar-da-sociedade-este-regime-terminou-em-1985-quando-tancredo-neves-foi-eleito-presidente-do-brasil-span7 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.o-regime-militar-no-brasil-um-regime-repressivo-que-come-ou-com-um-golpe-em-31-de-mar-o-de-1964-e-o-impeachment-do-presidente-jo-o-goulart-este-regime-durou-21-anos-1964-1985-durante-os-quais-foram-praticadas-censuras-imprensa-restri-es-s-liberdades-pol-ticas-e-tortura-policial-de-opositores-ao-governo-o-golpe-militar-de-1964-teve-como-objetivo-frear-o-avan-o-dos-partidos-populares-no-governo-de-jo-o-goulart-acusado-de-ser-comunista-o-ponto-de-partida-foi-a-ren-ncia-do-presidente-j-nio-quadros-em-25-de-agosto-de-1961-em-1964-agora-com-muito-poder-nas-m-os-jango-decidiu-iniciar-uma-reforma-reformada-para-mudar-o-pa-s-portanto-o-presidente-anunciou-que-aquisi-o-de-terrenos-nacionaliza-o-das-refinarias-de-petr-leo-reforma-eleitoral-que-garanta-o-voto-sem-instru-o-as-reformas-do-ensino-superior-incluem-a-ditadura-militar-no-brasil-foi-instaurada-atrav-s-de-um-golpe-organizado-pelos-militares-iniciado-em-31-de-mar-o-de-1964-e-seguido-de-um-golpe-ocorrido-em-2-de-abril-de-19642-este-golpe-n-o-foi-controlado-apenas-pelos-militares-e-com-a-maior-pot-ncia-comercial-do-brasil-com-a-ajuda-dos-estados-unidos-estava-determinado-a-derrotar-jo-o-goulart-e-o-trabalho-dos-trabalhadores-um-projeto-pol-tico-que-buscava-o-desenvolvimento-e-a-melhoria-do-bem-estar-da-sociedade-este-regime-terminou-em-1985-quando-tancredo-neves-foi-eleito-presidente-do-brasil-span8 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.o-regime-militar-no-brasil-um-regime-repressivo-que-come-ou-com-um-golpe-em-31-de-mar-o-de-1964-e-o-impeachment-do-presidente-jo-o-goulart-este-regime-durou-21-anos-1964-1985-durante-os-quais-foram-praticadas-censuras-imprensa-restri-es-s-liberdades-pol-ticas-e-tortura-policial-de-opositores-ao-governo-o-golpe-militar-de-1964-teve-como-objetivo-frear-o-avan-o-dos-partidos-populares-no-governo-de-jo-o-goulart-acusado-de-ser-comunista-o-ponto-de-partida-foi-a-ren-ncia-do-presidente-j-nio-quadros-em-25-de-agosto-de-1961-em-1964-agora-com-muito-poder-nas-m-os-jango-decidiu-iniciar-uma-reforma-reformada-para-mudar-o-pa-s-portanto-o-presidente-anunciou-que-aquisi-o-de-terrenos-nacionaliza-o-das-refinarias-de-petr-leo-reforma-eleitoral-que-garanta-o-voto-sem-instru-o-as-reformas-do-ensino-superior-incluem-a-ditadura-militar-no-brasil-foi-instaurada-atrav-s-de-um-golpe-organizado-pelos-militares-iniciado-em-31-de-mar-o-de-1964-e-seguido-de-um-golpe-ocorrido-em-2-de-abril-de-19642-este-golpe-n-o-foi-controlado-apenas-pelos-militares-e-com-a-maior-pot-ncia-comercial-do-brasil-com-a-ajuda-dos-estados-unidos-estava-determinado-a-derrotar-jo-o-goulart-e-o-trabalho-dos-trabalhadores-um-projeto-pol-tico-que-buscava-o-desenvolvimento-e-a-melhoria-do-bem-estar-da-sociedade-este-regime-terminou-em-1985-quando-tancredo-neves-foi-eleito-presidente-do-brasil-span9 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}

@@ -1,0 +1,126 @@
+*{
+  padding: 0;
+  margin: 0;
+  border-style: border-box;
+}
+.herclito,
+.herclito * {
+  box-sizing: border-box;
+}
+.herclito {
+  background: #fff3b0;
+  height: 1333px;
+  position: relative;
+  overflow: hidden;
+}
+.cabe-arioo {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.her-clito-de-feso {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 70px;
+}
+.btnlivros {
+  border-radius: 0px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 26px;
+  top: 1247px;
+  overflow: visible;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 86px;
+  top: 1256px;
+}
+.her-clito-de-feso-tamb-m-conhecido-como-o-obscuro-foi-um-fil-sofo-pr-socr-tico-nascido-por-volta-de-540-a-c-na-cidade-de-feso-antiga-col-nia-grega-ele-considerado-o-pai-da-dial-tica-um-m-todo-que-coloca-em-embate-ideias-distintas-1-aqui-est-o-alguns-pontos-importantes-sobre-ele-biografia-her-clito-nasceu-em-feso-filho-da-alta-aristocracia-da-cidade-recusou-a-vida-pol-tica-e-abdicou-se-do-trono-de-feso-sendo-classificado-como-um-misantropo-retirou-se-para-um-retiro-solit-rio-nas-montanhas-alimentando-se-apenas-de-plantas-faleceu-devido-a-uma-doen-a-conhecida-como-hidropsia-edema-principais-ideias-defendia-que-a-natureza-composta-por-uma-constante-mudan-a-afirmava-que-ningu-m-entra-duas-vezes-no-mesmo-rio-para-expressar-a-imperman-ncia-da-realidade-sua-filosofia-influenciou-pensadores-posteriores-incluindo-s-crates-plat-o-e-arist-teles-frases-not-veis-tudo-flui-panta-rhei-destacando-a-mudan-a-constante-o-conflito-pai-de-todas-as-coisas-enfatizando-a-import-ncia-do-embate-de-opostos {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 26px;
+  top: 245px;
+  width: 1338px;
+}
+.her-clito-de-feso-tamb-m-conhecido-como-o-obscuro-foi-um-fil-sofo-pr-socr-tico-nascido-por-volta-de-540-a-c-na-cidade-de-feso-antiga-col-nia-grega-ele-considerado-o-pai-da-dial-tica-um-m-todo-que-coloca-em-embate-ideias-distintas-1-aqui-est-o-alguns-pontos-importantes-sobre-ele-biografia-her-clito-nasceu-em-feso-filho-da-alta-aristocracia-da-cidade-recusou-a-vida-pol-tica-e-abdicou-se-do-trono-de-feso-sendo-classificado-como-um-misantropo-retirou-se-para-um-retiro-solit-rio-nas-montanhas-alimentando-se-apenas-de-plantas-faleceu-devido-a-uma-doen-a-conhecida-como-hidropsia-edema-principais-ideias-defendia-que-a-natureza-composta-por-uma-constante-mudan-a-afirmava-que-ningu-m-entra-duas-vezes-no-mesmo-rio-para-expressar-a-imperman-ncia-da-realidade-sua-filosofia-influenciou-pensadores-posteriores-incluindo-s-crates-plat-o-e-arist-teles-frases-not-veis-tudo-flui-panta-rhei-destacando-a-mudan-a-constante-o-conflito-pai-de-todas-as-coisas-enfatizando-a-import-ncia-do-embate-de-opostos-span {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.her-clito-de-feso-tamb-m-conhecido-como-o-obscuro-foi-um-fil-sofo-pr-socr-tico-nascido-por-volta-de-540-a-c-na-cidade-de-feso-antiga-col-nia-grega-ele-considerado-o-pai-da-dial-tica-um-m-todo-que-coloca-em-embate-ideias-distintas-1-aqui-est-o-alguns-pontos-importantes-sobre-ele-biografia-her-clito-nasceu-em-feso-filho-da-alta-aristocracia-da-cidade-recusou-a-vida-pol-tica-e-abdicou-se-do-trono-de-feso-sendo-classificado-como-um-misantropo-retirou-se-para-um-retiro-solit-rio-nas-montanhas-alimentando-se-apenas-de-plantas-faleceu-devido-a-uma-doen-a-conhecida-como-hidropsia-edema-principais-ideias-defendia-que-a-natureza-composta-por-uma-constante-mudan-a-afirmava-que-ningu-m-entra-duas-vezes-no-mesmo-rio-para-expressar-a-imperman-ncia-da-realidade-sua-filosofia-influenciou-pensadores-posteriores-incluindo-s-crates-plat-o-e-arist-teles-frases-not-veis-tudo-flui-panta-rhei-destacando-a-mudan-a-constante-o-conflito-pai-de-todas-as-coisas-enfatizando-a-import-ncia-do-embate-de-opostos-span2 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.her-clito-de-feso-tamb-m-conhecido-como-o-obscuro-foi-um-fil-sofo-pr-socr-tico-nascido-por-volta-de-540-a-c-na-cidade-de-feso-antiga-col-nia-grega-ele-considerado-o-pai-da-dial-tica-um-m-todo-que-coloca-em-embate-ideias-distintas-1-aqui-est-o-alguns-pontos-importantes-sobre-ele-biografia-her-clito-nasceu-em-feso-filho-da-alta-aristocracia-da-cidade-recusou-a-vida-pol-tica-e-abdicou-se-do-trono-de-feso-sendo-classificado-como-um-misantropo-retirou-se-para-um-retiro-solit-rio-nas-montanhas-alimentando-se-apenas-de-plantas-faleceu-devido-a-uma-doen-a-conhecida-como-hidropsia-edema-principais-ideias-defendia-que-a-natureza-composta-por-uma-constante-mudan-a-afirmava-que-ningu-m-entra-duas-vezes-no-mesmo-rio-para-expressar-a-imperman-ncia-da-realidade-sua-filosofia-influenciou-pensadores-posteriores-incluindo-s-crates-plat-o-e-arist-teles-frases-not-veis-tudo-flui-panta-rhei-destacando-a-mudan-a-constante-o-conflito-pai-de-todas-as-coisas-enfatizando-a-import-ncia-do-embate-de-opostos-span3 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.her-clito-de-feso-tamb-m-conhecido-como-o-obscuro-foi-um-fil-sofo-pr-socr-tico-nascido-por-volta-de-540-a-c-na-cidade-de-feso-antiga-col-nia-grega-ele-considerado-o-pai-da-dial-tica-um-m-todo-que-coloca-em-embate-ideias-distintas-1-aqui-est-o-alguns-pontos-importantes-sobre-ele-biografia-her-clito-nasceu-em-feso-filho-da-alta-aristocracia-da-cidade-recusou-a-vida-pol-tica-e-abdicou-se-do-trono-de-feso-sendo-classificado-como-um-misantropo-retirou-se-para-um-retiro-solit-rio-nas-montanhas-alimentando-se-apenas-de-plantas-faleceu-devido-a-uma-doen-a-conhecida-como-hidropsia-edema-principais-ideias-defendia-que-a-natureza-composta-por-uma-constante-mudan-a-afirmava-que-ningu-m-entra-duas-vezes-no-mesmo-rio-para-expressar-a-imperman-ncia-da-realidade-sua-filosofia-influenciou-pensadores-posteriores-incluindo-s-crates-plat-o-e-arist-teles-frases-not-veis-tudo-flui-panta-rhei-destacando-a-mudan-a-constante-o-conflito-pai-de-todas-as-coisas-enfatizando-a-import-ncia-do-embate-de-opostos-span4 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.her-clito-de-feso-tamb-m-conhecido-como-o-obscuro-foi-um-fil-sofo-pr-socr-tico-nascido-por-volta-de-540-a-c-na-cidade-de-feso-antiga-col-nia-grega-ele-considerado-o-pai-da-dial-tica-um-m-todo-que-coloca-em-embate-ideias-distintas-1-aqui-est-o-alguns-pontos-importantes-sobre-ele-biografia-her-clito-nasceu-em-feso-filho-da-alta-aristocracia-da-cidade-recusou-a-vida-pol-tica-e-abdicou-se-do-trono-de-feso-sendo-classificado-como-um-misantropo-retirou-se-para-um-retiro-solit-rio-nas-montanhas-alimentando-se-apenas-de-plantas-faleceu-devido-a-uma-doen-a-conhecida-como-hidropsia-edema-principais-ideias-defendia-que-a-natureza-composta-por-uma-constante-mudan-a-afirmava-que-ningu-m-entra-duas-vezes-no-mesmo-rio-para-expressar-a-imperman-ncia-da-realidade-sua-filosofia-influenciou-pensadores-posteriores-incluindo-s-crates-plat-o-e-arist-teles-frases-not-veis-tudo-flui-panta-rhei-destacando-a-mudan-a-constante-o-conflito-pai-de-todas-as-coisas-enfatizando-a-import-ncia-do-embate-de-opostos-span5 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.her-clito-de-feso-tamb-m-conhecido-como-o-obscuro-foi-um-fil-sofo-pr-socr-tico-nascido-por-volta-de-540-a-c-na-cidade-de-feso-antiga-col-nia-grega-ele-considerado-o-pai-da-dial-tica-um-m-todo-que-coloca-em-embate-ideias-distintas-1-aqui-est-o-alguns-pontos-importantes-sobre-ele-biografia-her-clito-nasceu-em-feso-filho-da-alta-aristocracia-da-cidade-recusou-a-vida-pol-tica-e-abdicou-se-do-trono-de-feso-sendo-classificado-como-um-misantropo-retirou-se-para-um-retiro-solit-rio-nas-montanhas-alimentando-se-apenas-de-plantas-faleceu-devido-a-uma-doen-a-conhecida-como-hidropsia-edema-principais-ideias-defendia-que-a-natureza-composta-por-uma-constante-mudan-a-afirmava-que-ningu-m-entra-duas-vezes-no-mesmo-rio-para-expressar-a-imperman-ncia-da-realidade-sua-filosofia-influenciou-pensadores-posteriores-incluindo-s-crates-plat-o-e-arist-teles-frases-not-veis-tudo-flui-panta-rhei-destacando-a-mudan-a-constante-o-conflito-pai-de-todas-as-coisas-enfatizando-a-import-ncia-do-embate-de-opostos-span6 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.her-clito-de-feso-tamb-m-conhecido-como-o-obscuro-foi-um-fil-sofo-pr-socr-tico-nascido-por-volta-de-540-a-c-na-cidade-de-feso-antiga-col-nia-grega-ele-considerado-o-pai-da-dial-tica-um-m-todo-que-coloca-em-embate-ideias-distintas-1-aqui-est-o-alguns-pontos-importantes-sobre-ele-biografia-her-clito-nasceu-em-feso-filho-da-alta-aristocracia-da-cidade-recusou-a-vida-pol-tica-e-abdicou-se-do-trono-de-feso-sendo-classificado-como-um-misantropo-retirou-se-para-um-retiro-solit-rio-nas-montanhas-alimentando-se-apenas-de-plantas-faleceu-devido-a-uma-doen-a-conhecida-como-hidropsia-edema-principais-ideias-defendia-que-a-natureza-composta-por-uma-constante-mudan-a-afirmava-que-ningu-m-entra-duas-vezes-no-mesmo-rio-para-expressar-a-imperman-ncia-da-realidade-sua-filosofia-influenciou-pensadores-posteriores-incluindo-s-crates-plat-o-e-arist-teles-frases-not-veis-tudo-flui-panta-rhei-destacando-a-mudan-a-constante-o-conflito-pai-de-todas-as-coisas-enfatizando-a-import-ncia-do-embate-de-opostos-span7 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.her-clito-de-feso-tamb-m-conhecido-como-o-obscuro-foi-um-fil-sofo-pr-socr-tico-nascido-por-volta-de-540-a-c-na-cidade-de-feso-antiga-col-nia-grega-ele-considerado-o-pai-da-dial-tica-um-m-todo-que-coloca-em-embate-ideias-distintas-1-aqui-est-o-alguns-pontos-importantes-sobre-ele-biografia-her-clito-nasceu-em-feso-filho-da-alta-aristocracia-da-cidade-recusou-a-vida-pol-tica-e-abdicou-se-do-trono-de-feso-sendo-classificado-como-um-misantropo-retirou-se-para-um-retiro-solit-rio-nas-montanhas-alimentando-se-apenas-de-plantas-faleceu-devido-a-uma-doen-a-conhecida-como-hidropsia-edema-principais-ideias-defendia-que-a-natureza-composta-por-uma-constante-mudan-a-afirmava-que-ningu-m-entra-duas-vezes-no-mesmo-rio-para-expressar-a-imperman-ncia-da-realidade-sua-filosofia-influenciou-pensadores-posteriores-incluindo-s-crates-plat-o-e-arist-teles-frases-not-veis-tudo-flui-panta-rhei-destacando-a-mudan-a-constante-o-conflito-pai-de-todas-as-coisas-enfatizando-a-import-ncia-do-embate-de-opostos-span8 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.her-clito-de-feso-tamb-m-conhecido-como-o-obscuro-foi-um-fil-sofo-pr-socr-tico-nascido-por-volta-de-540-a-c-na-cidade-de-feso-antiga-col-nia-grega-ele-considerado-o-pai-da-dial-tica-um-m-todo-que-coloca-em-embate-ideias-distintas-1-aqui-est-o-alguns-pontos-importantes-sobre-ele-biografia-her-clito-nasceu-em-feso-filho-da-alta-aristocracia-da-cidade-recusou-a-vida-pol-tica-e-abdicou-se-do-trono-de-feso-sendo-classificado-como-um-misantropo-retirou-se-para-um-retiro-solit-rio-nas-montanhas-alimentando-se-apenas-de-plantas-faleceu-devido-a-uma-doen-a-conhecida-como-hidropsia-edema-principais-ideias-defendia-que-a-natureza-composta-por-uma-constante-mudan-a-afirmava-que-ningu-m-entra-duas-vezes-no-mesmo-rio-para-expressar-a-imperman-ncia-da-realidade-sua-filosofia-influenciou-pensadores-posteriores-incluindo-s-crates-plat-o-e-arist-teles-frases-not-veis-tudo-flui-panta-rhei-destacando-a-mudan-a-constante-o-conflito-pai-de-todas-as-coisas-enfatizando-a-import-ncia-do-embate-de-opostos-span9 {
+  color: #000000;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.image-5 {
+  width: 175px;
+  height: 260px;
+  position: absolute;
+  left: 1265px;
+  top: 710px;
+  object-fit: cover;
+}
