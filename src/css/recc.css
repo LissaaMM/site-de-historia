@@ -1,0 +1,141 @@
+
+*{
+  padding: 0;
+  margin: 0;
+  border-style: border-box;
+}.group-20,
+.group-20 * {
+  border-style: border-box;
+  
+}
+.group-20 {
+  height: 1024px;
+  position: relative;
+}
+.recomendacoes-ini {
+  background: #fff3b0;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.cabe-arioo {
+  background: #854d4d;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.cabe-arioo2 {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.recomenda-es {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  background-color: #854D4D;
+  padding: 25px;
+  display: flex;
+}
+.btnlivros {
+  border-radius: 8px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 39px;
+  top: 279px;
+  border: none;
+  overflow: visible;
+  background-color: #854D4D;
+}
+.livros {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 91px;
+  top: 288px;
+  width: 251px;
+  height: 79px;
+}
+.btn-filmes {
+  background: #854d4d;
+  border-radius: 8px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 39px;
+  top: 396px;
+}
+.btnseries {
+  background: #854d4d;
+  border-radius: 8px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 39px;
+  top: 535px;
+}
+.s-ries {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 97px;
+  top: 544px;
+}
+.btnvoltar {
+  background: #854d4d;
+  border-radius: 8px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 39px;
+  top: 668px;
+  width: 240px;
+height: 60px;
+flex-shrink: 0;
+}
+.filmes {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 97px;
+  top: 405px;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 91px;
+  top: 676px;
+}
+.estatua-removebg-preview-1 {
+  width: 338px;
+  height: 563px;
+  position: absolute;
+  left: 551px;
+  top: 253px;
+  object-fit: cover;
+}
+
+

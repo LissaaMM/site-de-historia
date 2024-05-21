@@ -1,0 +1,198 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box
+}
+header{
+  display:flex;
+  
+}
+.filosofos-ini,
+.filosofos-ini * {
+  box-sizing: border-box;
+}
+.filosofos-ini {
+  background: #fff3b0;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.download-1,
+.download-1 * {
+  box-sizing: border-box;
+}
+.download-1 {
+  height: 546px;
+  position: relative;
+  object-fit: cover;
+}
+
+.cabe-arioo {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  background-color: #854d4d;
+}
+.fil-sofos {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-display: flex;
+  padding: 25px;
+  background-color: #854d4d;
+}
+.btnlivros {
+  border-radius: 0px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 25px;
+  top: 907px;
+  overflow: visible;
+  background-color: #854d4d;
+}
+.btnlivros2 {
+  border-radius: 0px;
+  width: 393px;
+  height: 60px;
+  position: absolute;
+  left: 26px;
+  top: 535px;
+  overflow: visible;
+  background-color: #854d4d;
+}
+.btnlivros3 {
+  border-radius: 0px;
+  width: 393px;
+  height: 60px;
+  position: absolute;
+  left: 26px;
+  top: 643px;
+  overflow: visible;
+  background-color: #854d4d;
+}
+.ren-descartes {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 112px;
+  top: 651px;
+}
+.btnlivros4 {
+  border-radius: 0px;
+  width: 393px;
+  height: 60px;
+  position: absolute;
+  left: 26px;
+  top: 736px;
+  overflow: visible;
+  background-color: #854d4d;
+}
+.download-1 {
+  width: 737.84px;
+  height: 546px;
+  position: absolute;
+  left: 558px;
+  top: 307px;
+  object-fit: cover;
+}
+.btnlivros5 {
+  border-radius: 0px;
+  width: 393px;
+  height: 60px;
+  position: absolute;
+  left: 25px;
+  top: 432px;
+  overflow: visible;
+  background-color: #854d4d;
+  
+}
+.btnlivros6 {
+  border-radius: 0px;
+  width: 393px;
+  height: 60px;
+  position: absolute;
+  left: 26px;
+  top: 339px;
+  overflow: visible;
+  background-color: #854d4d;
+}
+.btnlivros7 {
+  border-radius: 0px;
+  width: 393px;
+  height: 60px;
+  position: absolute;
+  left: 26px;
+  top: 240px;
+  overflow: visible;
+  background-color: #854d4d;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 915px;
+}
+.s-crates {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 151px;
+  top: 244px;
+  width: 141px;
+  height: 52px;
+}
+.her-clito-de-ef-so {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 89px;
+  top: 348px;
+}
+.arist-teles {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 146px;
+  top: 441px;
+}
+.plat-o {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 170px;
+  top: 544px;
+}
+.mile-durkheim {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 105px;
+  top: 742px;
+}

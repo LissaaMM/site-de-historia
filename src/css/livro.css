@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+    border-style: border-box;
+}
+.livrospg,
+.livrospg * {
+  box-sizing: border-box;
+}
+.livrospg {
+  background: #fff3b0;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  overflow: hidden;
+}
+.cabe-arioo {
+  background: #854d4d;
+  width: 100%;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.cabe-arioo2 {
+  width: 1440px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.livros {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 54px;
+  top: 70px;
+}
+.btnvoltar {
+  background: #854d4d;
+  border-radius: 8px;
+  width: 240px;
+  height: 60px;
+  position: absolute;
+  left: 17px;
+  top: 916px;
+}
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 78px;
+  top: 924px;
+}
+.frame-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 4px;
+  top: 771px;
+  overflow: hidden;
+}
+.livro-did-tico-infantil-recomendado-para-crian-as {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 44px;
+  top: 693px;
+  width: 280px;
+}
+.esse-livro-trata-da-revolu-o-insdustrial-e-seus-beneficios-e-maleficios {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 383px;
+  top: 690px;
+  width: 280px;
+}
+.anne-frank-retrata-a-dificuldade-dos-judeus-quando-sofridos-pelas-persegui-es {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 742px;
+  top: 685px;
+  width: 280px;
+}
+.anne-um-bom-exemplo-para-relatar-a-import-ncia-da-mulher-na-hist-ria {
+  color: #000000;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1082px;
+  top: 682px;
+  width: 280px;
+}
+.r-1 {
+  width: 277px;
+  height: 376px;
+  position: absolute;
+  left: 44px;
+  top: 269px;
+  object-fit: cover;
+}
+.image-2 {
+  width: 349px;
+  height: 376px;
+  position: absolute;
+  left: 349px;
+  top: 269px;
+  object-fit: cover;
+}
+.oip-5 {
+  width: 243px;
+  height: 376px;
+  position: absolute;
+  left: 751px;
+  top: 269px;
+  object-fit: cover;
+}
+.r-2 {
+  width: 261px;
+  height: 376px;
+  position: absolute;
+  left: 1093px;
+  top: 269px;
+  object-fit: cover;
+}

@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #fff3b0;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+
+.br{
+  background: #854d4d;
+  width: 100%;
+  height: 138px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  color: #ffffff;
+  text-align: inline;
+  font-family: "Playball-Regular";
+  font-size: 23px;
+  font-weight: 23px; 
+}

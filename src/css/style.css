@@ -1,0 +1,161 @@
+.quadro,
+.quadro * {
+  box-sizing: border-box;
+}
+.quadro {
+  background: #fff3b0;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.acima {
+  background: #854d4d;
+  width: 100%;
+  height: 138px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.historiage {
+  color: #000000;
+  text-align: center;
+  font-family: "PtSerifCaption-Regular";
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 52px;
+  top: 648px;
+  width: 257px;
+  height: 71px;
+}
+.historia{
+  color: #ffffff;
+  text-align: inline;
+  font-family: "Playball-Regular";
+  font-size: 48px;
+  font-weight: 400px;
+  position: absolute;
+  left: 19px;
+  top: 44px;
+  width:550px;
+  height: 87px;
+  display: flex;
+  justify-content: inline;
+  
+
+}
+.pesquisa {
+  background: #ffffff;
+  border-radius: 24px;
+  width: 703px;
+  height: 44px;
+  position: absolute;
+  left: 302px;
+  top: 252px;
+}
+.livro {
+  border-radius: 50%;
+  width: 170px;
+  height: 171px;
+  position: absolute;
+  left: 95px;
+  top: 437px;
+  object-fit: cover;
+}
+.filo {
+  border-radius: 50%;
+  width: 171px;
+  height: 171px;
+  position: absolute;
+  left: 425px;
+  top: 430px;
+  object-fit: cover;
+}
+.caderno {
+  border-radius: 50%;
+  width: 169px;
+  height: 171px;
+  position: absolute;
+  left: 1086px;
+  top: 437px;
+  object-fit: cover;
+}
+.ideias {
+  border-radius: 50%;
+  width: 170px;
+  height: 171px;
+  position: absolute;
+  left: 755px;
+  top: 430px;
+  object-fit: cover;
+}
+.filosofos{
+  color: #000000;
+  text-align: center;
+  font-family: "PtSerifCaption-Regular";
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 438px;
+  top: 648px;
+  width: 145px;
+  height: 55px;
+}
+.recomenda-es {
+  color: #000000;
+  text-align: center;
+  font-family: "PtSerifCaption-Regular";
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 696px;
+  top: 648px;
+  width: 289px;
+  height: 33px;
+}
+.abaixo {
+  background: #854d4d;
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  align-items: center;
+  top: 946px;
+}
+
+
+.historiabr {
+  color: #000000;
+  text-align: center;
+  font-family: "PtSerifCaption-Regular";
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1024px;
+  top: 648px;
+  width: 293px;
+  height: 55px;
+}
+.globo {
+  width: 84px;
+  height: 98px;
+  position: absolute;
+  left: 450px;
+  top: 20px;
+  object-fit: cover;
+}
+.final {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Teko-Regular";
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 10px;
+  top: 963px;
+  width: 512px;
+  height: 18px;
+}
+a{
+  color: #000000;
+  font-weight:bold;
+}
