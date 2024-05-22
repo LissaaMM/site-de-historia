@@ -46,7 +46,7 @@ header{
   background-color: #854d4d;
 }
 .btnlivros {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 240px;
   height: 60px;
   position: absolute;
@@ -54,9 +54,10 @@ header{
   top: 907px;
   overflow: visible;
   background-color: #854d4d;
+  border: none;
 }
 .btnlivros2 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 393px;
   height: 60px;
   position: absolute;
@@ -64,9 +65,10 @@ header{
   top: 535px;
   overflow: visible;
   background-color: #854d4d;
+  border: none;
 }
 .btnlivros3 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 393px;
   height: 60px;
   position: absolute;
@@ -74,6 +76,7 @@ header{
   top: 643px;
   overflow: visible;
   background-color: #854d4d;
+  border: none;
 }
 .ren-descartes {
   color: #ffffff;
@@ -86,7 +89,7 @@ header{
   top: 651px;
 }
 .btnlivros4 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 393px;
   height: 60px;
   position: absolute;
@@ -94,6 +97,7 @@ header{
   top: 736px;
   overflow: visible;
   background-color: #854d4d;
+  border: none;
 }
 .download-1 {
   width: 737.84px;
@@ -104,7 +108,7 @@ header{
   object-fit: cover;
 }
 .btnlivros5 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 393px;
   height: 60px;
   position: absolute;
@@ -112,10 +116,11 @@ header{
   top: 432px;
   overflow: visible;
   background-color: #854d4d;
+  border: none;
   
 }
 .btnlivros6 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 393px;
   height: 60px;
   position: absolute;
@@ -123,9 +128,10 @@ header{
   top: 339px;
   overflow: visible;
   background-color: #854d4d;
+  border: none;
 }
 .btnlivros7 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 393px;
   height: 60px;
   position: absolute;
@@ -133,6 +139,7 @@ header{
   top: 240px;
   overflow: visible;
   background-color: #854d4d;
+  border: none;
 }
 .voltar {
   color: #ffffff;
