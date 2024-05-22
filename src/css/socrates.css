@@ -26,10 +26,9 @@
   text-align: left;
   font-family: "PlayfairDisplay-Regular", sans-serif;
   font-size: 48px;
-  font-weight: 400;
-  position: absolute;
-  left: 74px;
-  top: 70px;
+  padding: 25px;
+  display: flex;
+  background-color: #854d4d;
 }
 .btnlivros {
   border-radius: 0px;
