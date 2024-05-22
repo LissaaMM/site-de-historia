@@ -9,14 +9,13 @@
 }
 .aristoteles {
   background: #fff3b0;
-  width: 100vw;
-  height: 100vh;
+  height: 1333px;
   position: relative;
   overflow: hidden;
 }
 .cabe-arioo {
-  width: 1440px;
-  height: 204px;
+  width: 100vw;
+  height: 100vh;
   position: absolute;
   left: 0px;
   top: 0px;
