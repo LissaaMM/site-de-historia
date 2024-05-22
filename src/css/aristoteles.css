@@ -14,13 +14,14 @@
   overflow: hidden;
 }
 .cabe-arioo {
-  width: 100vw;
-  height: 100vh;
+  width: 1440px;
+  height: 204px;
   position: absolute;
   left: 0px;
   top: 0px;
   overflow: visible;
 }
+
 .btnlivros {
   border-radius: 8px;
   width: 240px;

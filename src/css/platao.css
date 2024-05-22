@@ -22,13 +22,15 @@
   overflow: visible;
 }
 .btnlivros {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 240px;
   height: 60px;
   position: absolute;
   left: 26px;
   top: 1247px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .voltar {
   color: #ffffff;
@@ -75,9 +77,9 @@
   font-family: "PlayfairDisplay-Regular", sans-serif;
   font-size: 48px;
   font-weight: 400;
-  position: absolute;
-  left: 72px;
-  top: 70px;
+  display: flex;
+  padding: 25px;
+  background-color: #854d4d;
 }
 .image-4 {
   width: 449px;
