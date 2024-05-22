@@ -31,7 +31,9 @@
   background-color: #854d4d;
 }
 .btnlivros {
-  border-radius: 0px;
+  border-radius: 8px;
+  background-color:  #854d4d;
+  border: none;
   width: 240px;
   height: 60px;
   position: absolute;
