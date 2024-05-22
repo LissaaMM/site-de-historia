@@ -55,13 +55,6 @@ header{
   overflow: visible;
   background-color: #854d4d;
   border: none;
-  color: #ffffff;
-  text-align: left;
-  font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 32px;
-  font-weight: 400;
- 
-
 }
 .btnlivros2 {
   border-radius: 8px;
@@ -148,7 +141,16 @@ header{
   background-color: #854d4d;
   border: none;
 }
-
+.voltar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 915px;
+}
 .s-crates {
   color: #ffffff;
   text-align: left;

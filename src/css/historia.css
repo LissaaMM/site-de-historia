@@ -22,6 +22,7 @@
 .cabe-arioo {
   width: 1440px;
   height: 204px;
+  background-color: #854d4d;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -29,6 +30,7 @@
 }
 .hist-ria-geral {
   color: #ffffff;
+  background-color: #854d4d;
   text-align: left;
   font-family: "PlayfairDisplay-Regular", sans-serif;
   font-size: 48px;
@@ -38,13 +40,15 @@
   top: 70px;
 }
 .btnlivros {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 388px;
   height: 60px;
   position: absolute;
   left: 31px;
   top: 554px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .revolu-o-francesa {
   color: #ffffff;
@@ -57,13 +61,15 @@
   top: 562px;
 }
 .btnlivros2 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 388px;
   height: 60px;
   position: absolute;
   left: 31px;
   top: 434px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .revolu-o-inglesa {
   color: #ffffff;
@@ -83,6 +89,8 @@
   left: 31px;
   top: 314px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .revolu-o-industria {
   color: #ffffff;
@@ -102,6 +110,8 @@
   left: 31px;
   top: 794px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .voltar {
   color: #ffffff;

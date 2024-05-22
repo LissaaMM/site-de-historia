@@ -16,28 +16,33 @@
 .cabe-arioo {
   width: 1440px;
   height: 204px;
+  background-color:  #854d4d;
   position: absolute;
   left: 0px;
   top: 0px;
   overflow: visible;
 }
 .btnlivros {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 240px;
   height: 60px;
   position: absolute;
   left: 31px;
   top: 833px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .btnlivros2 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 447px;
   height: 60px;
   position: absolute;
   left: 31px;
   top: 568px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .ditadura-milittar {
   color: #ffffff;
@@ -50,22 +55,26 @@
   top: 576px;
 }
 .btnlivros3 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 447px;
   height: 60px;
   position: absolute;
   left: 31px;
   top: 452px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .btnlivros4 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 447px;
   height: 60px;
   position: absolute;
   left: 31px;
   top: 355px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .p-riodo-imperial {
   color: #ffffff;
@@ -78,13 +87,15 @@
   top: 363px;
 }
 .btnlivros5 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 447px;
   height: 60px;
   position: absolute;
   left: 31px;
   top: 249px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .per-odo-colonial {
   color: #ffffff;
