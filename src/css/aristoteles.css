@@ -22,13 +22,15 @@
   overflow: visible;
 }
 .btnlivros {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 240px;
   height: 60px;
   position: absolute;
   left: 26px;
   top: 1247px;
   overflow: visible;
+  background-color:  #854d4d;
+  border: none;
 }
 .voltar {
   color: #ffffff;
@@ -69,9 +71,9 @@
   font-family: "PlayfairDisplay-Regular", sans-serif;
   font-size: 48px;
   font-weight: 400;
-  position: absolute;
-  left: 42px;
-  top: 70px;
+  display: flex;
+  background-color: #854d4d;
+  padding: 25px;
 }
 .ren-descartes-1596-1650-foi-um-fil-sofo-matem-tico-e-f-sico-franc-s-ele-considerado-o-criador-do-pensamento-cartesiano-um-sistema-filos-fico-que-deu-origem-filosofia-moderna-aqui-est-o-alguns-pontos-importantes-sobre-sua-vida-e-ideias-biografia-de-descartes-nasceu-em-haye-fran-a-em-31-de-mar-o-de-1596-estudou-no-col-gio-jesu-ta-royal-henry-le-grand-e-concluiu-o-curso-de-direito-na-universidade-de-poitiers-rompeu-com-a-filosofia-escol-stica-e-prop-s-uma-ci-ncia-unit-ria-e-universal-viveu-na-holanda-entre-1629-e-1649-onde-desenvolveu-trabalhos-em-matem-tica-e-filosofia-faleceu-em-11-de-fevereiro-de-1650-na-su-cia-1-ideias-filos-ficas-de-descartes-preocupava-se-com-a-clareza-e-a-ordem-prop-s-uma-filosofia-baseada-na-verdade-absoluta-e-fundamentada-no-racionalismo-desenvolveu-o-m-todo-da-d-vida-questionando-todas-as-ideias-preexistentes-para-atingir-o-conhecimento-sua-famosa-frase-penso-logo-existo-do-discurso-sobre-o-m-todo-1637-2 {
   color: #000000;
