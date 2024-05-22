@@ -27,15 +27,17 @@
   font-family: "PlayfairDisplay-Regular", sans-serif;
   font-size: 48px;
   font-weight: 400;
-  position: absolute;
-  left: 74px;
-  top: 70px;
+  display: flex;
+  background-color: #854d4d;
+  padding: 25px;
 }
 .btnlivros {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 240px;
   height: 60px;
   position: absolute;
+  border: none;
+  background-color: #854d4d;
   left: 26px;
   top: 1247px;
   overflow: visible;
