@@ -1,6 +1,7 @@
 *{
   padding: 0;
   margin: 0;
+  border-style: border-box;
 }
 .group-9,
 .group-9 * {
@@ -35,9 +36,8 @@
   font-family: "PlayfairDisplay-Regular", sans-serif;
   font-size: 48px;
   font-weight: 400;
-  position: absolute;
-  left: 59px;
-  top: 70px;
+  padding: 25px;
+  display: flex;
 }
 .btnlivros {
   border-radius: 8px;
@@ -82,7 +82,7 @@
   top: 439px;
 }
 .btnlivros3 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 388px;
   height: 60px;
   position: absolute;
@@ -103,7 +103,7 @@
   top: 323px;
 }
 .btnlivros4 {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 240px;
   height: 60px;
   position: absolute;
