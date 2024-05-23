@@ -29,6 +29,8 @@
   left: 77px;
   top: 1045px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .voltar {
   color: #ffffff;

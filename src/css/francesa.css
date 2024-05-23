@@ -27,18 +27,19 @@
   font-family: "PlayfairDisplay-Regular", sans-serif;
   font-size: 48px;
   font-weight: 400;
-  position: absolute;
-  left: 59px;
-  top: 70px;
+  display: flex;
+  background-color: #854d4d;
 }
 .btnlivros {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 240px;
   height: 60px;
   position: absolute;
   left: 59px;
   top: 1905px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .voltar {
   color: #ffffff;

@@ -22,13 +22,15 @@
   overflow: visible;
 }
 .btnlivros {
-  border-radius: 0px;
+  border-radius: 8px;
   width: 240px;
   height: 60px;
   position: absolute;
   left: 77px;
   top: 1045px;
   overflow: visible;
+  background-color: #854d4d;
+  border: none;
 }
 .voltar {
   color: #ffffff;
