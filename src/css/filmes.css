@@ -35,9 +35,9 @@
   font-family: "PlayfairDisplay-Regular", sans-serif;
   font-size: 48px;
   font-weight: 400;
-  position: absolute;
-  left: 24px;
-  top: 70px;
+  display: flex;
+  padding: 25px;
+  background-color: #854d4d;
 }
 .btnvoltar {
   background: #854d4d;
