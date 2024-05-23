@@ -13,8 +13,8 @@
 }
 .historiagr {
   background: #fff3b0;
-  width: 1440px;
-  height: 1024px;
+  width: 100vw;
+  height: 100vh;
   position: absolute;
   left: 0px;
   top: 0px;
