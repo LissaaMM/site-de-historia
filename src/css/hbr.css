@@ -10,14 +10,14 @@
 }
 .hist-brasil {
   background: #fff3b0;
-  width: 100%;
-  height: 100%;
+  width: 100vh;
+  height: 100vw;
   position: relative;
   overflow: hidden;
 }
 .cabe-arioo {
-  width: 100%;
-  height: 100%;
+  width: 100vh;
+  height: 100vw;
   background-color:  #854d4d;
   position: absolute;
   left: 0px;
