@@ -3,11 +3,7 @@
   margin: 0;
   border-style: border-box;
 }
-.tela {  
-  display: grid;  
-  grid-template-columns: 1fr 1fr 1fr;  
-  grid-template-rows: 50px 50px;  
-}
+
 .group-9,
 .group-9 * {
   box-sizing: border-box;
